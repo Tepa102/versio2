@@ -1,23 +1,25 @@
 h1 {
     font-size: 1.9em;
     font-weight: bold;
-    background-color: rgb(154, 113, 192);
+    background-color: #18a1f0;
 }
 body p b {
-    font-size: 1.2em;
+    font-size: 1.3em;
+    color:aliceblue;
 }
 body {
-    background-color: rgb(63, 158, 158);
+    background-color: #2260F0;
 }
 
 body ol {
     font-size: 1.2em;
-    background-color: rgb(183, 243, 223);
+    background-color: #5dbaf0;
 }
 
 button {
-    background-color: rgb(248, 239, 226);
+    background-color: #4d07f7;
     font-size: 1.1em;
+    color:aliceblue;
 }
 input {
     font-size: 1.1em;
