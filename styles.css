@@ -1,0 +1,25 @@
+h1 {
+    font-size: 1.9em;
+    font-weight: bold;
+    background-color: rgb(154, 113, 192);
+}
+body p b {
+    font-size: 1.2em;
+}
+body {
+    background-color: rgb(63, 158, 158);
+}
+
+body ol {
+    font-size: 1.2em;
+    background-color: rgb(183, 243, 223);
+}
+
+button {
+    background-color: rgb(248, 239, 226);
+    font-size: 1.1em;
+}
+input {
+    font-size: 1.1em;
+
+}
