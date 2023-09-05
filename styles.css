@@ -1,7 +1,7 @@
 h1 {
     font-size: 1.9em;
     font-weight: bold;
-    background-color: #18a1f0;
+    background-color: #18ddf0;
 }
 body p b {
     font-size: 1.3em;
@@ -13,13 +13,12 @@ body {
 
 body ol {
     font-size: 1.2em;
-    background-color: #5dbaf0;
+    background-color: #ecae43;
 }
 
 button {
-    background-color: #4d07f7;
+    background-color: #a907ed3;
     font-size: 1.1em;
-    color:aliceblue;
 }
 input {
     font-size: 1.1em;
